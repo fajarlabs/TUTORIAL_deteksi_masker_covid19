@@ -12,3 +12,6 @@ pip install -r requirements.txt
 ``````
 python deteksi_masker_covid.py
 ``````
+
+# HOW TO TRAIN DATASET
+Silahkan kunjungi link berikut : <a href="https://github.com/fajarlabs/TUTORIAL_Face_mask_training_data">Training Data</a>
